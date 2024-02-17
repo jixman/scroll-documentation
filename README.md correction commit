@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Scroll_ZKP?style=social)](https://twitter.com/Scroll_ZKP)
 [![Discord](https://img.shields.io/discord/984015101017346058?color=%235865F2&label=Discord&logo=discord&logoColor=%23fff)](https://discord.gg/scroll)
 
-This is the open source project for the Scroll documentation.
+This is the open-source project for the Scroll documentation.
 
 ## Developing
 
@@ -13,7 +13,7 @@ npm install && npm run dev
 
 ## Docs architecture
 
-- All articles are markdown and stored in `/src/content/docs/`.
+- All articles are marked down and stored in `/src/content/docs/`.
 - Navigation is JSON in `/src/config/sidebar.ts`
 
 ## Credits
